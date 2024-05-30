@@ -24,7 +24,7 @@ jupyter kernelspec list
 jupyter kernelspec uninstall [커널명]
 
 <기타 프로그램 설치> </br>
-pip3 install pytorch-cuda=11.7 -c pytorch -c nvidia
+pip3 install pytorch-cuda=11.7 -c pytorch -c nvidia </br>
 pip3 install torch torchvision numpy pandas matplotlip tqdm timm opencv-python
 
 <버전 확인> </br>
