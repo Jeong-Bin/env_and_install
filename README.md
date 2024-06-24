@@ -1,7 +1,7 @@
 # env_and_install
 
 <가상환경 생성 및 실행> </br>
-conda create -n [가상환경명] python=3.8 cudatoolkit==11.4 </br>
+conda create -n [가상환경명] python=3.8 </br>
 conda activate [가상환경명]
 
 <가상환경 목록 확인> </br>
