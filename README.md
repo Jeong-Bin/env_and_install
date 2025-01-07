@@ -24,7 +24,7 @@ conda config --remove channels defaults
 - https://repo.anaconda.com/pkgs/main
 - https://repo.anaconda.com/pkgs/r
 ``` 
-- 직접 /miniconda3/.condarc 파일을 열어서 아래와 같이 수정
+- 직접 /miniconda3/.condarc 파일을 열어서 (혹은 nano ~/.condarc) 아래와 같이 수정
 ```
 channels:
   - conda-forge
